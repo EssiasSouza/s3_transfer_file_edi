@@ -1,0 +1,13 @@
+{
+    "essias-teste-aws2": {
+        "backup_conf": "True",
+        "subdirectory": "True",
+        "directories": [
+            "\\teste\\parado",
+            "\\teste\\movido"
+        ],
+        "backup_path": [
+            "\\teste\\backup"
+        ]
+    }
+}

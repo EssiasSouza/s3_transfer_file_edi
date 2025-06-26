@@ -1,0 +1,11 @@
+{
+    "common_settings": {
+        "logs_path": "./logs",
+        "log_name": "AWS_S3_Sender.log"
+    },
+    "app_parameters": {
+        "polling_interval": "10",
+        "time_insert_bucket": "5",
+        "copy_registries": "COPY_REGISTRIES.log"
+    }
+}
